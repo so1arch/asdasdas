@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "medievalcombat",
+  "version": "${version}",
+  "name": "Medieval Combat",
+  "description": "Medieval 3D swords, armor sets and a KCD2-inspired combat system: directional attacks, stamina, guard, parry and master strike.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.medievalcombat.MedievalCombat"],
+    "client": ["com.medievalcombat.client.MedievalCombatClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

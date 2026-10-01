@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  T",
+    " T ",
+    "LS "
+  ],
+  "key": {
+    "T": {
+      "item": "medievalcombat:steel_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "medievalcombat:estoc",
+    "count": 1
+  }
+}

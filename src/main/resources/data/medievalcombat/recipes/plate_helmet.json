@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "TTT",
+    "T T"
+  ],
+  "key": {
+    "T": {
+      "item": "medievalcombat:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "medievalcombat:plate_helmet",
+    "count": 1
+  }
+}
